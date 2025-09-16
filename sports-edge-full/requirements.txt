@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+pytrends
+meteostat
+requests
+beautifulsoup4
+lxml
+tqdm
+python-dateutil
